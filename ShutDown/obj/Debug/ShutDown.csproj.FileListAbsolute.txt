@@ -1,0 +1,9 @@
+c:\users\edgars.preimanis\documents\visual studio 2015\Projects\ShutDown\ShutDown\bin\Debug\ShutDown.exe.config
+c:\users\edgars.preimanis\documents\visual studio 2015\Projects\ShutDown\ShutDown\bin\Debug\ShutDown.exe
+c:\users\edgars.preimanis\documents\visual studio 2015\Projects\ShutDown\ShutDown\bin\Debug\ShutDown.pdb
+c:\users\edgars.preimanis\documents\visual studio 2015\Projects\ShutDown\ShutDown\obj\Debug\ShutDown.csprojResolveAssemblyReference.cache
+c:\users\edgars.preimanis\documents\visual studio 2015\Projects\ShutDown\ShutDown\obj\Debug\ShutDown.Properties.Resources.resources
+c:\users\edgars.preimanis\documents\visual studio 2015\Projects\ShutDown\ShutDown\obj\Debug\ShutDown.csproj.GenerateResource.Cache
+c:\users\edgars.preimanis\documents\visual studio 2015\Projects\ShutDown\ShutDown\obj\Debug\ShutDown.exe
+c:\users\edgars.preimanis\documents\visual studio 2015\Projects\ShutDown\ShutDown\obj\Debug\ShutDown.pdb
+c:\users\edgars.preimanis\documents\visual studio 2015\Projects\ShutDown\ShutDown\obj\Debug\ShutDown.Main.resources
